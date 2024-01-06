@@ -1,3 +1,4 @@
+#Tamrin 3 Data st
 class Node:
     def __init__(self, coefficient=0, exponent=0):
         self.coefficient = coefficient
